@@ -2,7 +2,7 @@
 
 Url: http://pizza.eu-west-1.elasticbeanstalk.com/
 
-Aplikacja umożliwia zamówienie wybranej ilości pizzy, użytkownik podaje adres zamówienia. Dane dotyczące zamówień przechowywane są w bazie SQL. 
+The application allows you to order the selected amount of pizza, the user gives the order address. Orders data is stored in the SQL database.
 
 I used:
 Spring Boot, Hibernate, MySQL, Vaadin, Maven. 
